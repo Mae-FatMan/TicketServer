@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">com.douglas.ticketmanager.DouglasService</string>
+    <string name="Buy">---Buy---</string>
+    <string name="ERROR">Sorry, Error!</string>
+    <string name="Welcome_Start">Welcome! \nplease Input your number, departureStation, and terminus. \nAnd please click Buy Btn.</string>
+</resources>
